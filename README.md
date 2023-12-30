@@ -1,10 +1,8 @@
-# Delphi-Projects-Template
+# LemonSqueezy for Delphi
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
-
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+A Delphi client library and some samples for using the [Lemon Squeezy](https://www.lemonsqueezy.com) API.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
